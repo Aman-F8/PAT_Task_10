@@ -4,7 +4,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import service
 import time
-from Selenium import driver
+#from Selenium import driver
 
 # service_obj = Service("C:/Users/dell/PycharmProjects/driver/chromedriver.exe") # with chromedriver
 #driver.get("https://www.google.com/") # to open specified url in the browser & navigate to the given webpage
